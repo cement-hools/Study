@@ -2,7 +2,6 @@ from math import atan, pi
 
 def arcctan(x):
     return (pi / 2) - atan(x)
-
 def compute_population(y):
     C = 172
     T = 2000
